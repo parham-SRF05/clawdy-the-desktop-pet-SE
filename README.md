@@ -113,3 +113,9 @@ bottom, centred, or auto-hiding.
 The character is the square one from Claude Code's welcome screen, redrawn here in pixel art.
 If you *do* use Claude Code, the [full edition](https://github.com/parham-SRF05/clawdy-the-desktop-pet)
 adds live reactions to what Claude is doing and a hover panel showing progress on your tasks.
+
+---
+
+## Licence
+
+[MIT](LICENSE) — do what you like with it, just keep the copyright line.
